@@ -40,5 +40,6 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
-.yarn
-.keep
+.yarn/cache
+.yarn/unplugged
+
