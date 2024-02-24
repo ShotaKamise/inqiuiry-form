@@ -88,7 +88,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   config.assets.initialize_on_precompile = false
-  config.assets.js_compressor = :uglifier
+
 
 
   # Enable DNS rebinding protection and other `Host` header attacks.
