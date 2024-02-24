@@ -39,13 +39,6 @@
     "zod": "^3.22.4"
   },
   "version": "0.1.0",
-  "babel": {
-    "presets": [
-      "@babel/preset-env",
-      "@babel/preset-react",
-      "@babel/preset-typescript"
-    ]
-  },
   "browserslist": [
     "defaults"
   ],
