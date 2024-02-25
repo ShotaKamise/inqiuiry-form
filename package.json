@@ -50,5 +50,10 @@
     "babel-loader": "^9.1.3",
     "webpack": "^5.90.3",
     "webpack-dev-server": "4"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open",
+    "webpack": "webpack"
   }
 }
